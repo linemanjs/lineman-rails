@@ -2,14 +2,14 @@
   "name": "lineman-rails",
   "title": "Configures Lineman to deploy assets elegantly with Ruby on Rails",
   "version": "0.0.1",
-  "homepage": "https://github.com/testdouble/lineman-rails",
+  "homepage": "https://github.com/linemanjs/lineman-rails",
   "author": {
     "name": "Justin Searls",
     "company": "Test Double"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/testdouble/lineman-rails.git"
+    "url": "git://github.com/linemanjs/lineman-rails.git"
   },
   "main": "main.js",
   "dependencies": {
