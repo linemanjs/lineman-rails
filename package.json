@@ -11,7 +11,6 @@
     "type": "git",
     "url": "git://github.com/linemanjs/lineman-rails.git"
   },
-  "main": "main.js",
   "dependencies": {
     "coffee-script": "~1.6.3",
     "grunt": "~0.4.2",
