@@ -1,31 +1,41 @@
 {
   "name": "lineman-rails",
-  "title": "Configures Lineman to deploy assets elegantly with Ruby on Rails",
+  "description": "Configures Lineman to deploy assets elegantly with Ruby on Rails",
   "version": "0.0.1",
   "homepage": "https://github.com/linemanjs/lineman-rails",
   "author": {
     "name": "Justin Searls",
-    "company": "Test Double"
+    "email": "justin@testdouble.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/linemanjs/lineman-rails.git"
+    "url": "https://github.com/linemanjs/lineman-rails.git"
+  },
+  "bugs": {
+    "url": "https://github.com/linemanjs/lineman-rails/issues"
   },
   "dependencies": {
     "coffee-script": "~1.6.3",
     "grunt": "~0.4.2",
     "underscore": "~1.5.2"
   },
-  "devDependencies": {
-    "grunt": "~0.4.1"
-  },
   "peerDependencies": {
     "lineman": ">= 0.21.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://mit-license.org"
+      "url": "http://testdouble.mit-license.org"
     }
+  ],
+  "keywords": [
+    "lineman",
+    "linemanplugin",
+    "rails",
+    "assets",
+    "assetpipeline"
   ]
 }
