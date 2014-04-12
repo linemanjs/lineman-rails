@@ -6,3 +6,8 @@ module.exports = (lineman) ->
     removeTasks:
       common: conf.removeTasks.common.concat("pages:dev")
       dist: conf.removeTasks.dist.concat("pages:dist")
+
+    watch:
+      pages:
+        files: []
+        tasks: []
