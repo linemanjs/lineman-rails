@@ -1,7 +1,7 @@
 {
   "name": "lineman-rails",
   "description": "Configures Lineman to deploy assets elegantly with Ruby on Rails",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "homepage": "https://github.com/linemanjs/lineman-rails",
   "author": {
     "name": "Justin Searls",
